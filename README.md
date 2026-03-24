@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Erik+Silva+%F0%9F%91%8B;Engenharia+de+Computao+%7C+UFC;Desenvolvedor+em+formao" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Bem-vindo+ao+meu+GitHub" alt="Typing SVG">
 </div>
 
 ---
