@@ -1,97 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Bem-vindo+ao+meu+GitHub" alt="Typing SVG">
-</div>
 
-<h1 align="center">👋 Olá, eu sou o Erik Silva</h1>
-
-<p align="center">
-💻 Desenvolvedor em formação • 🎓 Engenharia de Computação (UFC)
-</p>
-
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de **Engenharia de Computação** pela UFC (Quixadá)  
-💻 Técnico em Informática  
-
-Tenho experiência com programação, banco de dados e redes de computadores.  
-Atualmente, estou focado em fortalecer minha base em lógica, algoritmos e matemática aplicada.
-
-🧠 Construindo fundamentos em:
-- Estruturas de dados  
-- Sistemas operacionais  
-- Engenharia de software  
-- Desenvolvimento backend  
-
-🎯 Interesse principal: desenvolvimento de software e sistemas
-
----
-## 🌐 Conecte-se comigo
-
-<div align="center"> 
-  <a href="https://instagram.com/_eriksilval" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:erikk.silvalima01@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-## 💻 Tecnologias
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Erik+Silva+%F0%9F%91%8B;Engenharia+de+Computao+%7C+UFC;Desenvolvedor+em+formao" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ Ferramentas
+## Sobre mim
 
-- VS Code  
-- PyCharm  
-- Geany  
-- XAMPP  
+Estudante de **Engenharia de Computação** pela UFC (Quixadá) e Técnico em Informática, com experiência em programação, banco de dados e redes de computadores.
+
+Atualmente focado em fortalecer minha base em lógica, algoritmos e matemática aplicada.
+
+**Construindo fundamentos em:**
+
+- Estruturas de dados e algoritmos
+- Sistemas operacionais
+- Engenharia de software
+- Desenvolvimento backend
+
+**Interesse principal:** desenvolvimento de software e sistemas
 
 ---
 
-## 📊 GitHub Stats
+## Tecnologias
 
 <div align="center">
-  <a href="https://github.com/erik0301-0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erik0301-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik0301-0&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
 </div>
 
-<br>
+---
 
-<picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake.svg"> </picture>
+## GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=erik0301-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats do Erik" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik0301-0&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação de contribuições no GitHub" src="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
----
+## Contato
 
----
+<div align="center">
 
-## 🔥 Diferencial
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_eriksilval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erikk.silvalima01@gmail.com)
 
-- Base técnica construída desde cedo  
-- Foco em evolução contínua  
-- Consistência nos estudos e na prática  
-- Visão de longo prazo na área de tecnologia  
-
----
+</div>
