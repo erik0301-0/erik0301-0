@@ -1,33 +1,30 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Bem-vindo+ao+meu+GitHub" alt="Typing SVG">
+</div>
+
 <h1 align="center">👋 Olá, eu sou o Erik Silva</h1>
 
 <p align="center">
-💻 Desenvolvedor | 🎓 Engenharia de Computação (UFC - Quixadá)
+💻 Desenvolvedor em formação • 🎓 Engenharia de Computação (UFC)
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Engenharia de Computação** pela Universidade Federal do Ceará (UFC - Quixadá)  
+🎓 Estudante de **Engenharia de Computação** pela UFC (Quixadá)  
 💻 Técnico em Informática  
 
-🚀 Experiência prévia com:
-- Programação  
-- Banco de dados  
-- Redes de computadores  
+Tenho experiência com programação, banco de dados e redes de computadores.  
+Atualmente, estou focado em fortalecer minha base em lógica, algoritmos e matemática aplicada.
 
-📚 Atualmente focado em:
-- Lógica de programação  
-- Algoritmos  
-- Matemática aplicada (pré-cálculo e fundamentos)  
-
-🧠 Construindo uma base sólida para:
+🧠 Construindo fundamentos em:
 - Estruturas de dados  
 - Sistemas operacionais  
 - Engenharia de software  
 - Desenvolvimento backend  
 
-🎯 Interesse principal: **Desenvolvimento de software e sistemas**
+🎯 Interesse principal: desenvolvimento de software e sistemas
 
 ---
 
@@ -65,11 +62,15 @@
   </a>
 </div>
 
+<br>
+
+<picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake.svg"> </picture>
+
 ---
 
 ## 🌐 Conecte-se comigo
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/_eriksilval" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -87,25 +88,19 @@
 
 ## 🧠 Mentalidade
 
-> "Disciplina supera motivação. Constância constrói resultados."
+> Disciplina supera motivação. Constância constrói resultados.
 
 ---
 
 ## 🔥 Diferencial
 
-✔ Base técnica sólida desde cedo  
-✔ Mentalidade disciplinada (academia + estudos)  
-✔ Foco em evolução constante  
-✔ Construindo carreira com consistência e visão de longo prazo  
+- Base técnica construída desde cedo  
+- Foco em evolução contínua  
+- Consistência nos estudos e na prática  
+- Visão de longo prazo na área de tecnologia  
 
 ---
 
 <p align="center">
-🚀 Em construção... mas sempre evoluindo.
+🚀 Em constante evolução.
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erik0301-0/erik0301-0/output/github-contribution-grid-snake.svg">
-</picture>
