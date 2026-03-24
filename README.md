@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+👨‍💻 Sobre mim
 
 Olá! Eu sou o **Erik Silva**, estudante de **Engenharia de Computação** pela UFC (Quixadá) e Técnico em Informática, com experiência em programação, banco de dados e redes de computadores.
 
@@ -21,7 +21,7 @@ Atualmente focado em fortalecer minha base em lógica, algoritmos e matemática 
 
 ---
 
-## 🌐 Contato
+🌐 Contato
 
 <div align="center">
 
@@ -33,23 +33,23 @@ Atualmente focado em fortalecer minha base em lógica, algoritmos e matemática 
 
 ---
 
-## 💻 Tecnologias
+💻 Tecnologias
 
-<div align="center">
+<div style="display: inline_block"><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
 
 ---
 
-## 🛠️ Ferramentas
+🛠️ Ferramentas
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Atualmente focado em fortalecer minha base em lógica, algoritmos e matemática 
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/erik0301-0">
