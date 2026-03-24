@@ -85,10 +85,6 @@ Atualmente, estou focado em fortalecer minha base em lógica, algoritmos e matem
 
 ---
 
-## 🧠 Mentalidade
-
-> Disciplina supera motivação. Constância constrói resultados.
-
 ---
 
 ## 🔥 Diferencial
@@ -99,7 +95,3 @@ Atualmente, estou focado em fortalecer minha base em lógica, algoritmos e matem
 - Visão de longo prazo na área de tecnologia  
 
 ---
-
-<p align="center">
-🚀 Em constante evolução.
-</p>
